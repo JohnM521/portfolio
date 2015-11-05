@@ -4,3 +4,25 @@ body {
 
 
 }
+
+.img-circle {
+    border-radius: 50%;
+}
+
+img.resize{
+    width:200px; 
+    height: auto;
+}
+
+h1 {
+	 font-family: 'Open Sans', sans-serif;
+	 font-family: 'Pacifico', cursive;
+}
+
+b {
+	font-family: 'Titillium Web', sans-serif;
+}
+
+h2 {
+	font-family: 'Poiret One', cursive;
+}
